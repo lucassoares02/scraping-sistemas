@@ -1,0 +1,13 @@
+## Passos para rodar o projeto
+
+1. Instale o BeautifulSoup:
+
+   Comando: `pip install beautifulsoup4`
+
+2. Instale o MySQL:
+
+   Comando: `pip install mysql-connector-python`
+
+3. Execute o comando para iniciar o app.py:
+
+   Comando: `python3 app.py` ou `python app.py`
