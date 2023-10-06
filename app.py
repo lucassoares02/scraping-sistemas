@@ -1,19 +1,13 @@
-from canguru import pegar_dados_canguru
+from mercados import pegar_dados_json
 from extrabom import pegar_dados_extrabom
-import requests
-import json
+from auth import get_token
 
-response = requests.post("https://api-loja.cangurumais.com.br/v1/auth/loja/login", {
-    "domain": "cangurumais.com.br",
-    "username": "loja",
-    "key": "df072f85df9bf7dd71b6811c34bdbaa4f219d98775b56cff9dfa5f8ca1bf8469"
-})
 
-response = json.loads(response.text)
-token = f"Bearer {response['data']}"
 
-print(token)
+token_canguru = get_token("https://api-loja.cangurumais.com.br/v1/auth/loja/login", "cangurumais.com.br")
+token_perim = get_token("https://api-loja.perim.com.br/v1/auth/loja/login", "perim.com.br")
 
 for i in range(100):
-   pegar_dados_canguru(i, token)
+   pegar_dados_json(i, token_canguru, "cangurumais", "Canguru", 2)
+   pegar_dados_json(i, token_perim, "perim", "Perim", 1)
    pegar_dados_extrabom(i)
