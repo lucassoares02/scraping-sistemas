@@ -1,0 +1,2024 @@
+[    {
+      "classificacao_mercadologica_id": 182,
+      "nivel": "Seção",
+      "parent_id": 181,
+      "descricao": "Frutas secas e cristalizadas",
+      "imagem": "74b1f162-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/hortifruti/frutas-secas-e-cristalizadas",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 200,
+      "nivel": "Seção",
+      "parent_id": 181,
+      "descricao": "Frutas",
+      "imagem": "74b208bb-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/hortifruti/fruta",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 199,
+      "nivel": "Seção",
+      "parent_id": 181,
+      "descricao": "Legumes",
+      "imagem": "74b20799-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/hortifruti/legume",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 204,
+      "nivel": "Seção",
+      "parent_id": 181,
+      "descricao": "Ovos",
+      "imagem": "74b20d26-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/hortifruti/ovo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 201,
+      "nivel": "Seção",
+      "parent_id": 181,
+      "descricao": "Verdura folha",
+      "imagem": "74b209cf-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/hortifruti/verdura-folha",
+      "total_ofertas": 0,
+      "children": []
+    },
+ 
+    {
+      "classificacao_mercadologica_id": 2,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Água mineral e água de coco",
+      "imagem": "74a8c9d1-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/agua-mineral-e-agua-de-coco",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 24,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Suco e bebida pronta",
+      "imagem": "74a8d8a5-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/suco-e-bebida-pronta",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 25,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Cerveja importada e especial",
+      "imagem": "74a8d977-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/cerveja-importada-e-especial",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 30,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Cerveja",
+      "imagem": "74a8dd55-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/cerveja",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 32,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Refresco em pó",
+      "imagem": "74a8dee0-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/refresco-em-po",
+      "total_ofertas": 18,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 53,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Energético e ice",
+      "imagem": "74a8ee35-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/energetico-e-ice",
+      "total_ofertas": 11,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 59,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Catuaba e sangria",
+      "imagem": "74a8f2ec-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/catuaba-e-sangria",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 66,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Suco concentrado",
+      "imagem": "74a8f8a5-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/suco-concentrado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 75,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Refrigerante pet",
+      "imagem": "74b165d0-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/refrigerante-pet",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 79,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Drink e run",
+      "imagem": "74b16ab3-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/drink-e-run",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 108,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Isotônico e hidrotônico",
+      "imagem": "74b18a3f-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/isotonico-e-hidrotonico",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 119,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Refrigerante lata",
+      "imagem": "74b19556-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/refrigerante-lata",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 136,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Vinho nacional",
+      "imagem": "74b1a87b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/vinho-nacional",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 138,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Vinho importado",
+      "imagem": "74b1ac32-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/vinho-importado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 139,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Espumante, sidra e champagne",
+      "imagem": "74b1ad5d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/espumante-sidra-e-champagne",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 141,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Bebida à base de soja",
+      "imagem": "74b1af8f-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/bebida-a-base-de-soja",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 149,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Conhaque e licor",
+      "imagem": "74b1bae2-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/conhaque-e-licor",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 165,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Aguardente e cachaça",
+      "imagem": "74b1d9c9-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/aguardente-e-cachaca",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 183,
+      "nivel": "Seção",
+      "parent_id": 1,
+      "descricao": "Vodka e whisky",
+      "imagem": "74b1f35b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bebidas/vodka-e-whisky",
+      "total_ofertas": 3,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 15,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Enlatado e conserva",
+      "imagem": "74a8d248-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/enlatado-e-conserva",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 22,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Atomatado",
+      "imagem": "74a8d729-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/atomatado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 28,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Sopa",
+      "imagem": "74a8dbbd-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/sopa",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 31,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Macarrão com ovos",
+      "imagem": "74a8de13-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/macarrao-com-ovos",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 33,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Macarrão integral e soja",
+      "imagem": "74a8dfb0-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/macarrao-integral-e-soja",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 35,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Macarrão sêmola",
+      "imagem": "74a8e16d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/macarrao-semola",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 36,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Lasanha e grano duro",
+      "imagem": "74a8e242-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/lasanha-e-grano-duro",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 38,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Tempero e caldo",
+      "imagem": "74a8e3e1-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/tempero-e-caldo",
+      "total_ofertas": 14,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 54,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Maionese e batata palha",
+      "imagem": "74a8eefd-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/maionese-e-batata-palha",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 58,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Vinagre e agrin",
+      "imagem": "74a8f226-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/vinagre-e-agrin",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 69,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Molho especial",
+      "imagem": "74a8fb4a-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/molho-especial",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 74,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Palmito e champignon",
+      "imagem": "74b16493-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/palmito-e-champignon",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 88,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Azeite e óleo composto",
+      "imagem": "74b173d3-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/azeite-e-oleo-composto",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 95,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Sardinha, atum e cia",
+      "imagem": "74b17b8e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/sardinha-atum-e-cia",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 106,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Macarrão instantâneo",
+      "imagem": "74b1880a-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/macarrao-instantaneo",
+      "total_ofertas": 11,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 107,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Óleo",
+      "imagem": "74b18927-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/oleo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 109,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Catchup e mostarda",
+      "imagem": "74b18b64-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/catchup-e-mostarda",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 111,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Azeitona",
+      "imagem": "74b18da0-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/azeitona",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 135,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Molho diverso",
+      "imagem": "74b1a748-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/molho-diverso",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 154,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Molho salada",
+      "imagem": "74b1c3b2-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/molho-salada",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 212,
+      "nivel": "Seção",
+      "parent_id": 14,
+      "descricao": "Condimento",
+      "imagem": "74b21697-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/mercearia/condimento",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 10,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Adoçante",
+      "imagem": "74a8cfba-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/adocante",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 19,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Aveia e mingau",
+      "imagem": "74a8d587-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/aveia-e-mingau",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 34,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Mistura pronta",
+      "imagem": "74a8e082-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/mistura-pronta",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 37,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Leite em pó",
+      "imagem": "74a8e313-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/leite-em-po",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 45,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Leite condensado e creme leite",
+      "imagem": "74a8e8c0-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/leite-condensado-e-creme-leite",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 48,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Açúcar",
+      "imagem": "74a8ea63-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/acucar",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 61,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Cereal matinal",
+      "imagem": "74a8f48c-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/cereal-matinal",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 68,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Doce e geleia",
+      "imagem": "74a8fa66-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/doce-e-geleia",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 78,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Café e cappuccino",
+      "imagem": "74b1697d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/cafe-e-cappuccino",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 86,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Barra de cereal",
+      "imagem": "74b17172-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/barra-de-cereal",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 92,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Suplemento alimentar",
+      "imagem": "74b17840-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/suplemento-alimentar",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 96,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Gelatina e sobremesa em pó",
+      "imagem": "74b17cc4-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/gelatina-e-sobremesa-em-po",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 97,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Achocolatado em pó e Liquido",
+      "imagem": "74b17ddd-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/achocolatado-em-po",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 131,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Cobertura",
+      "imagem": "74b1a2df-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/cobertura",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 137,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Alimento infantil",
+      "imagem": "74b1a99c-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/alimento-infantil",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 143,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Filtro café e coador",
+      "imagem": "74b1b1cb-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/filtro-cafe-e-coador",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 144,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Chá",
+      "imagem": "74b1b2ef-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/cha",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 163,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Fermento",
+      "imagem": "74b1d716-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/fermento",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 175,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Derivados de coco",
+      "imagem": "74b1e759-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/derivados-de-coco",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 210,
+      "nivel": "Seção",
+      "parent_id": 9,
+      "descricao": "Mel e derivados",
+      "imagem": "74b2145b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/matinais-e-sobremesas/mel-e-derivados",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 81,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Linguiça",
+      "imagem": "74b16bd9-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/linguica",
+      "total_ofertas": 6,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 118,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Peixe e fruto do mar",
+      "imagem": "74b19416-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/peixe-e-fruto-do-mar",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 120,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Churrasco  cia.",
+      "imagem": "74b19684-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/churrasco-cia",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 132,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Carne suína",
+      "imagem": "74b1a3f1-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/carne-suina",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 133,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Ave e corte congelado",
+      "imagem": "74b1a515-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/ave-e-corte-congelado",
+      "total_ofertas": 4,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 150,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Carne bovina",
+      "imagem": "74b1bc1e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/carne-bovina",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 156,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Banha",
+      "imagem": "74b1c6a3-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/banha",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 177,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Bacon e embutido",
+      "imagem": "74b1ea09-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/bacon-e-embutido",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 178,
+      "nivel": "Seção",
+      "parent_id": 80,
+      "descricao": "Salsicha",
+      "imagem": "74b1ed0d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/carnes/salsicha",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 8,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Barra de chocolate",
+      "imagem": "74a8cc67-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/barra-de-chocolate",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 42,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Recheado",
+      "imagem": "74a8e655-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/recheado",
+      "total_ofertas": 4,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 43,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Cream cracker",
+      "imagem": "74a8e71e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/cream-cracker",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 51,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Ovo de páscoa",
+      "imagem": "74a8eca6-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/ovo-de-pascoa",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 52,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Lanche",
+      "imagem": "74a8ed76-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/lanche",
+      "total_ofertas": 5,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 83,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Bombom",
+      "imagem": "74b16e01-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/bombom",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 90,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Petisco",
+      "imagem": "74b1760d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/petisco",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 93,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Salgadinho",
+      "imagem": "74b17958-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/salgadinho",
+      "total_ofertas": 8,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 99,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Goma de mascar, Balas e Pirulitos",
+      "imagem": "74b1802a-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/goma-de-mascar-e-bala",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 100,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Biscoito doce",
+      "imagem": "74b1814e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/biscoito-doce",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 130,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Wafer",
+      "imagem": "74b1a1d9-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/wafer",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 134,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Rosquinha",
+      "imagem": "74b1a638-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/rosquinha",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 140,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Maizena",
+      "imagem": "74b1ae7f-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/maizena",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 145,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Torrada",
+      "imagem": "74b1b414-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/torrada",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 146,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Água e sal e salpet",
+      "imagem": "74b1b52d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/agua-e-sal-e-salpet",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 209,
+      "nivel": "Seção",
+      "parent_id": 7,
+      "descricao": "Biscoito de polvilho e cia",
+      "imagem": "74b21327-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/biscoitos-e-chocolates/biscoito-de-polvilho-e-cia",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 4,
+      "nivel": "Seção",
+      "parent_id": 3,
+      "descricao": "Pães e Doces",
+      "imagem": "74a8caae-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/padaria/pao",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 112,
+      "nivel": "Seção",
+      "parent_id": 3,
+      "descricao": "Panettone",
+      "imagem": "74b18eab-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/padaria/panettone",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 155,
+      "nivel": "Seção",
+      "parent_id": 3,
+      "descricao": "Bolo",
+      "imagem": "74b1c546-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/padaria/bolo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 166,
+      "nivel": "Seção",
+      "parent_id": 3,
+      "descricao": "Pão de forma e Bisnaguinha",
+      "imagem": "74b1db0a-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/padaria/pao-de-forma",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 21,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Iogurte bandeja",
+      "imagem": "74a8d658-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/iogurte-bandeja",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 29,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Leite",
+      "imagem": "74a8dc7d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/leite",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 62,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Iogurte frasco, copo e saquinho",
+      "imagem": "74a8f563-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/iogurte-frasco-copo-e-saquinho",
+      "total_ofertas": 5,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 73,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Leite fermentado",
+      "imagem": "74b16327-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/leite-fermentado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 77,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Requeijão",
+      "imagem": "74b1685b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/requeijao",
+      "total_ofertas": 8,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 102,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Patê",
+      "imagem": "74b18388-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/pate",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 121,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Massa fresca",
+      "imagem": "74b197b3-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/massa-fresca",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 122,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Margarina e gordura vegetal",
+      "imagem": "74b198d1-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/margarina-e-gordura-vegetal",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 125,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Manteiga",
+      "imagem": "74b19c34-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/manteiga",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 126,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Sobremesa cremosa",
+      "imagem": "74b19d57-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/sobremesa-cremosa",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 129,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Petit suisse",
+      "imagem": "74b1a0bb-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/petit-suisse",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 142,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Queijo",
+      "imagem": "74b1b0ad-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/queijo",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 185,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Presunto e derivado",
+      "imagem": "74b1f611-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/presunto-e-derivado",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 189,
+      "nivel": "Seção",
+      "parent_id": 20,
+      "descricao": "Mortadela e salame",
+      "imagem": "74b1fc11-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/frios-e-laticinios/mortadela-e-salame",
+      "total_ofertas": 1,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 40,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Pão de queijo",
+      "imagem": "74a8e4af-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/pao-de-queijo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 82,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Empanado",
+      "imagem": "74b16cee-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/empanado",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 89,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Pizza",
+      "imagem": "74b17500-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/pizza",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 104,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Lasanha e prato pronto",
+      "imagem": "74b185c7-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/lasanha-e-prato-pronto",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 114,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Legume congelado",
+      "imagem": "74b190cf-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/legume-congelado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 162,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Hambúrguer",
+      "imagem": "74b1d5b9-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/hamburguer",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 180,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Salgadinho congelado",
+      "imagem": "74b1f003-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/salgadinho-congelado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 198,
+      "nivel": "Seção",
+      "parent_id": 39,
+      "descricao": "Sobremesa congelada",
+      "imagem": "74b20683-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/congelados/sobremesa-congelada",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+     {
+      "classificacao_mercadologica_id": 6,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Tintura e descolorante",
+      "imagem": "74a8cb81-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/tintura-e-descolorante",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 17,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Barba e depilação",
+      "imagem": "74a8d3e2-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/barba-e-depilacao",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 18,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Escova dental e fio dental",
+      "imagem": "74a8d4ae-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/escova-dental-e-fio-dental",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 23,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Condicionador",
+      "imagem": "74a8d7ee-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/condicionador",
+      "total_ofertas": 11,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 26,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Sabonete",
+      "imagem": "74a8da3c-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/sabonete",
+      "total_ofertas": 7,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 27,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Creme dental e enxaguatório",
+      "imagem": "74a8dafc-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/creme-dental-e-enxaguatorio",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 41,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Desodorante",
+      "imagem": "74a8e587-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/desodorante",
+      "total_ofertas": 3,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 50,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Absorventes e Protetor diario",
+      "imagem": "74a8ebe3-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/absorvente",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 56,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Preservativo e lubrificante",
+      "imagem": "74a8f096-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/preservativo-e-lubrificante",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 57,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Shampoo",
+      "imagem": "74a8f163-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/shampoo",
+      "total_ofertas": 12,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 64,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Fralda descartável e lenço umedecido",
+      "imagem": "74a8f6fd-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/fralda-descartavel-e-lenco-umedecido",
+      "total_ofertas": 5,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 65,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Saúde",
+      "imagem": "74a8f7cb-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/saude",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 67,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Creme para cabelo",
+      "imagem": "74a8f97c-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/creme-para-cabelo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 87,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Talco para os pés",
+      "imagem": "74b1729b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/talco-para-pe",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 94,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Linha bebê",
+      "imagem": "74b17a66-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/linha-bebe",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 101,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Papel higiênico",
+      "imagem": "74b1826d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/papel-higienico",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 103,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Linha infantil",
+      "imagem": "74b184a7-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/linha-infantil",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 110,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Gel capilar",
+      "imagem": "74b18c86-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/gel-capilar",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 113,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Creme para pele",
+      "imagem": "74b18fbb-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/creme-para-pele",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 147,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Protetor solar e bronzeador",
+      "imagem": "74b1b65c-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/protetor-solar-e-bronzeador",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 159,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Algodao, Haste flexível e curativo ",
+      "imagem": "74b1d167-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/haste-flexivel-e-curativo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 161,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Óleo para cabelo e pele",
+      "imagem": "74b1d3fa-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/oleo-para-cabelo-e-pele",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 171,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Acessório para cabelo",
+      "imagem": "74b1e1b7-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/acessorio-para-cabelo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 173,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Esponja para banho e touca",
+      "imagem": "74b1e494-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/esponja-para-banho-e-touca",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 176,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Cuidado para pele e rosto",
+      "imagem": "74b1e89f-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/cuidado-para-pele",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 193,
+      "nivel": "Seção",
+      "parent_id": 5,
+      "descricao": "Esmalte e unha",
+      "imagem": "74b200d1-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/perfumaria-e-higiene/esmalte-e-unha",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 12,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Multiuso e limpador",
+      "imagem": "74a8d09d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/multiuso-e-limpador",
+      "total_ofertas": 2,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 13,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Álcool e removedor",
+      "imagem": "74a8d179-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/alcool-e-removedor",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 16,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Desodorizador",
+      "imagem": "74a8d318-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/desodorizador",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 44,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Detergente em pó",
+      "imagem": "74a8e7f4-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/detergente-em-po",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 49,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Desinfetante",
+      "imagem": "74a8eb20-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/desinfetante",
+      "total_ofertas": 4,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 60,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Inseticida e raticida",
+      "imagem": "74a8f3be-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/inseticida-e-raticida",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 63,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Sabão Barra, Líquido e pasta",
+      "imagem": "74a8f635-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/sabao-em-barra-e-liquido",
+      "total_ofertas": 5,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 72,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Amaciante e cia",
+      "imagem": "74b1605e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/amaciante-e-cia",
+      "total_ofertas": 4,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 91,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Detergente líquido",
+      "imagem": "74b17727-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/detergente-liquido",
+      "total_ofertas": 4,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 124,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Alvejante e sanitária",
+      "imagem": "74b19b09-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/alvejante-e-sanitaria",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 128,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Móveis e cia",
+      "imagem": "74b19f90-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/moveis-e-cia",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 151,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Vassoura, rodo e afins",
+      "imagem": "74b1bd6f-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/vassoura-rodo-e-afins",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 152,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Lã de aço e esponja",
+      "imagem": "74b1beb4-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/la-de-aco-e-esponja",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 153,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Cera e cia",
+      "imagem": "74b1c016-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/cera-e-cia",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 168,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Alumínio e inox",
+      "imagem": "74b1ddb8-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/aluminio-e-inox",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 179,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Calçado e cia",
+      "imagem": "74b1ee90-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/calcado-e-cia",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 197,
+      "nivel": "Seção",
+      "parent_id": 11,
+      "descricao": "Saco para lixo",
+      "imagem": "74b20564-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/limpeza-em-geral/saco-para-lixo",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 47,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Artigo para festa",
+      "imagem": "74a8e993-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/artigo-para-festa",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 55,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Utensílio",
+      "imagem": "74a8efce-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/utensilio",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 76,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Garrafa térmica",
+      "imagem": "74b16714-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/garrafa-termica",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 84,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Jarra, pote e copo de vidro",
+      "imagem": "74b16f1f-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/jarra-pote-e-copo-de-vidro",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 85,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Pano, flanela e tapete",
+      "imagem": "74b17047-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/pano-flanela-e-tapete",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 98,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Utilidade plástica",
+      "imagem": "74b17ef5-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/utilidade-plastica",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 105,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Papel toalha e guardanapo",
+      "imagem": "74b186ee-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/papel-toalha-e-guardanapo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 123,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Calçado",
+      "imagem": "74b199ec-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/calcado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 127,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Escolar",
+      "imagem": "74b19e76-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/escolar",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 148,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Louça e prato",
+      "imagem": "74b1b785-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/louca-e-prato",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 158,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Panela e talher",
+      "imagem": "74b1d00e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/panela-e-talher",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 164,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Chuveiro, válvula de gás",
+      "imagem": "74b1d868-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/chuveiro-valvula-de-gas",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 167,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Pilha e bateria",
+      "imagem": "74b1dc58-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/pilha-e-bateria",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 169,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Automotivo",
+      "imagem": "74b1df01-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/automotivo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 170,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Filtro, vela e torneira",
+      "imagem": "74b1e061-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/filtro-vela-e-torneira",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 172,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Palito de dente e fósforo",
+      "imagem": "74b1e320-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/palito-de-dente-e-fosforo",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 186,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Papel alumínio e filme pvc",
+      "imagem": "74b1f871-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/papel-aluminio-e-filme-pvc",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 191,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Escada e tábua de passar roupa",
+      "imagem": "74b1fe76-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/escada-e-tabua-de-passar-roupa",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 192,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Lâmpada, vela e lanterna",
+      "imagem": "74b1ffa3-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/lampada-vela-e-lanterna",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 194,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Eletrodoméstico",
+      "imagem": "74b201fb-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/eletrodomestico",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 211,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Brinquedo",
+      "imagem": "74b21580-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/brinquedo",
+      "total_ofertas": 7,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 213,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Jardinagem",
+      "imagem": "74b217a8-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/bazar-e-utilidades/jardinagem",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 214,
+      "nivel": "Seção",
+      "parent_id": 46,
+      "descricao": "Material de escritório",
+      "imagem": null,
+      "link": "/bazar-e-utilidades/material-de-escritorio",
+      "total_ofertas": 0,
+      "children": []
+    }
+ ,
+    {
+      "classificacao_mercadologica_id": 71,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Arroz",
+      "imagem": "74a8fc2b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/arroz",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 157,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Soja em grão e derivado",
+      "imagem": "74b1ccda-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/soja-em-grao-e-derivado",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 160,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Milho pipoca",
+      "imagem": "74b1d29e-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/milho-pipoca",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 174,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Farofa pronta",
+      "imagem": "74b1e5ee-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/farofa-pronta",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 184,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Farinha e creme de milho",
+      "imagem": "74b1f4ca-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/farinha-e-creme-de-milho",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 187,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Trigo para quibe e grão de bico",
+      "imagem": "74b1f9b4-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/trigo-para-quibe-e-grao-de-bico",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 188,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Fubá e canjiquinha",
+      "imagem": "74b1faed-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/fuba-e-canjiquinha",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 190,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Amendoim e canjica",
+      "imagem": "74b1fd53-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/amendoim-e-canjica",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 195,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Ervilha, lentilha e linhaça",
+      "imagem": "74b20311-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/ervilha-lentilha-e-linhaca",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 196,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Farinha de mandioca",
+      "imagem": "74b2043d-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/farinha-de-mandioca",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 202,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Polvilho",
+      "imagem": "74b20ae8-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/polvilho",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 203,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Feijão",
+      "imagem": "74b20bfe-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/feijao",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 205,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Farinha de trigo  cia.",
+      "imagem": "74b20e55-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/farinha-de-trigo-cia",
+      "total_ofertas": 1,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 207,
+      "nivel": "Seção",
+      "parent_id": 70,
+      "descricao": "Farinha de rosca e empanar",
+      "imagem": "74b210c1-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/cereais-e-farinaceos/farinha-de-rosca-e-empanar",
+      "total_ofertas": 0,
+      "children": []
+    },
+ 
+    {
+      "classificacao_mercadologica_id": 116,
+      "nivel": "Seção",
+      "parent_id": 115,
+      "descricao": "Alimento para gatos",
+      "imagem": "74b191e7-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/animais/alimento-para-gatos",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 117,
+      "nivel": "Seção",
+      "parent_id": 115,
+      "descricao": "Alimento para cães",
+      "imagem": "74b19303-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/animais/alimento-para-caes",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 206,
+      "nivel": "Seção",
+      "parent_id": 115,
+      "descricao": "Perfumaria e higiene pet",
+      "imagem": "74b20f8b-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/animais/perfumaria-e-higiene-pet",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 208,
+      "nivel": "Seção",
+      "parent_id": 115,
+      "descricao": "Alimento para pássaros",
+      "imagem": "74b211ee-815b-11e9-85cc-e0d55e3f4ec6.jpg",
+      "link": "/animais/alimento-para-passaros",
+      "total_ofertas": 0,
+      "children": []
+    },
+    {
+      "classificacao_mercadologica_id": 217,
+      "nivel": "Seção",
+      "parent_id": 115,
+      "descricao": "Acessórios para pets",
+      "imagem": null,
+      "link": "/animais/acessorios-para-pets",
+      "total_ofertas": 0,
+      "children": []
+    }
+]

@@ -1,6 +1,12 @@
 import requests
 import json
 from bd import inserir_dados
+import json
+
+f = open('data.json')
+f1 = open('data_perim.json')
+data = json.load(f)
+data_perim = json.load(f1)
 
 
 def pegar_dados_json(i, token, supermercado, loja, filial):
@@ -13,7 +19,7 @@ def pegar_dados_json(i, token, supermercado, loja, filial):
     try:
         produto = json.loads(response.text)
         nome_produto = produto["data"]["produto"]["descricao"]
-        categoria = produto["data"]["produto"]["classificacao_mercadologica_id"]
+        categoria = for_categories(produto["data"]["produto"]["classificacao_mercadologica_id"], loja)
         preco = produto["data"]["produto"]["preco"]
         print("====================================================")
         print("Nome do produto:", nome_produto)
@@ -24,4 +30,14 @@ def pegar_dados_json(i, token, supermercado, loja, filial):
 
     except (Exception) as error:
         print(f'Erro: {url}')
+
+
+
+def for_categories(id, loja):
+    value = data
+    if loja == "Perim":
+        value = data_perim
+    for i in range (len(value)):
+        if(value[i]['classificacao_mercadologica_id'] == id):
+            return value[i]['descricao']
         
